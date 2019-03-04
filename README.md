@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/foundpatterns/speakeasy"><img width="100" src="https://i.imgur.com/8thc7Lr.png" alt="speakeasy logo"></a><br><code>speakeasy</code><br><a href="https://www.youtube.com/watch?v=xSmL_t2WXMA">Get Ready For The Roaring Twenties</a></p>
+<p align="center"><a href="https://github.com/foundpatterns/speakeasy"><img width="100" src="record-player.png" alt="speakeasy logo"></a><br><code>speakeasy</code><br>Like <a href="https://www.youtube.com/watch?v=38mmdw9f5tg">A Night in Paris (1929)</a></p>
 
 Speakeasy is a concise and complete programming language meant for general purpose problem solving.
 
@@ -20,4 +20,4 @@ A new control syntax is currently in the planning and development phase.  Rust d
 
 By laying a foundation with a comprehensive, "batteries included", text-based programming interface, other programming environments will be possible to further develop.  Please see [Lighttouch](https://github.com/foundpatterns/lighttouch) as a starting point; more info to follow.
 
-### Thank you · Namaste · Aloha 👋
+<p align="center"><a href="https://www.youtube.com/watch?v=xSmL_t2WXMA">Get Ready For The Roaring Twenties</a><br>Thank you · Namaste · Aloha 👋</p>
