@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.youtube.com/watch?v=jVGgtZ4Qda4"><img width="100" src="record-player.png" alt="speakeasy logo"></a><br><code>speakeasy</code><br>Like <a href="https://www.youtube.com/watch?v=38mmdw9f5tg">A Night in Paris (1929)</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=jVGgtZ4Qda4"><img width="100" src="record-player.png" alt="speakeasy logo"></a><br><code>#!/usr/bin/env speakeasy</code><br>Like <a href="https://www.youtube.com/watch?v=38mmdw9f5tg">A Night in Paris (1929)</a></p>
 
 Speakeasy is a concise and complete programming language meant for general purpose problem solving.
 
