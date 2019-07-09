@@ -12,7 +12,7 @@ Through collaborative, wholistic development that leverages the best available e
 
 [Our dance](https://www.youtube.com/watch?v=V6QK0xc3mmo) starts with the [PUC-Rio interpreter](https://www.lua.org/manual/5.3/) [Lua syntax](https://en.wikipedia.org/wiki/Lua_(programming_language)#Syntax) for basic data structure and controls with additional functions fitting a broad range of use cases.  For more info, see [Torchbear's built-in modules](https://github.com/foundpatterns/torchbear#built-in-modules) and [Torchbear's bindings documentation](https://foundpatterns.github.io/torchbear-docs/index.html).
 
-A new control syntax is currently in the planning and development phase.  Rust developers and programming language researchers are highly encouraged to get involved in the issue queue and [the Discord chat server](https://discord.gg/f6XSuWs).  The underlying mechanisms can be found in [Torchbear's Ullage environment issue](https://github.com/foundpatterns/torchbear/issues/234).
+A new control syntax is currently in the planning and development phase.  Rust developers and programming language researchers are highly encouraged to get involved in the issue queue and [the Discord chat server](https://discord.gg/f6XSuWs).  The underlying mechanisms can be found in [Torchbear's Jazz environment issue](https://github.com/foundpatterns/torchbear/issues/234).
 
 ## Higher-level Interfaces
 
