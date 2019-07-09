@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.youtube.com/watch?v=jVGgtZ4Qda4"><img width="100" src="record-player.png" alt="speakeasy logo"></a></p>
 
-Speakeasy is a concise and complete programming stack meant for general purpose problem solving.  Install [Torchbear](https://github.com/foundpatterns/torchbear) and head over [Speakeasy Apps](https://github.com/speakeasy-apps) to get started.
+Speakeasy is a concise and complete [software stack](https://en.wikipedia.org/wiki/Solution_stack) meant for general purpose problem solving.  Install [Torchbear](https://github.com/foundpatterns/torchbear) and head over [Speakeasy Apps](https://github.com/speakeasy-apps) to get started.
 
 ## Aims
 
