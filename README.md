@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.youtube.com/watch?v=jVGgtZ4Qda4"><img width="100" src="record-player.png" alt="speakeasy logo"></a><br><code>#!/usr/bin/env speakeasy</code><br>Like <a href="https://www.youtube.com/watch?v=38mmdw9f5tg">A Night in Paris (1929)</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=jVGgtZ4Qda4"><img width="100" src="record-player.png" alt="speakeasy logo"></a></p>
 
 Speakeasy is a concise and complete programming stack meant for general purpose problem solving.  Install [Torchbear](https://github.com/foundpatterns/torchbear) and head over [Speakeasy Apps](https://github.com/speakeasy-apps) to get started.
 
@@ -18,4 +18,4 @@ A new control syntax is currently in the planning and development phase.  Rust d
 
 By laying a foundation with a comprehensive, "batteries included", text-based programming interface, other programming environments will be possible to further develop.  Please see [Lighttouch](https://github.com/foundpatterns/lighttouch) as a starting point; more info to follow.
 
-<p align="center"><a href="https://www.youtube.com/watch?v=xSmL_t2WXMA">Get Ready For The Roaring Twenties</a><br>Thank you · Namaste · Aloha 👋</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=xSmL_t2WXMA">Get Ready For The Roaring Twenties</a><br>Like <a href="https://www.youtube.com/watch?v=38mmdw9f5tg">A Night in Paris (1929)</a><br>Thank you · Namaste · Aloha 👋</p>
